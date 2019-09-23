@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://toosiemaec.paulfrandsen.com/sitemap.xml
